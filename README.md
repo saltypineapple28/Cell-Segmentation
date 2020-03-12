@@ -6,7 +6,7 @@ Kaggle Data Science Bowl 2018
 https://www.kaggle.com/c/data-science-bowl-2018/data
 
 ## Applied approaches: 
-- Traditional methods: Ostu thresholding, Distance Tranform Watershed Morphology
+- Traditional methods: Ostu thresholding, Distance Transform Watershed Morphology
 - Supervised Methods: U-net and R2U-net
 - Unsupervised Methods: W-net 
 
